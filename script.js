@@ -12,7 +12,6 @@ const btnHold = document.querySelector('.btn--hold');
 const current0El = document.querySelector('#current--0');
 const current1El = document.querySelector('#current--1');
 
-// declarando las variables de state de la app
 let scores, currentscore, activePlayer, playing;
 
 //metodo
